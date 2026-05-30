@@ -65,7 +65,7 @@ Most existing perfume recommendation systems match only on scent notes (e.g. "wo
 
 ## Dataset
 
-- **Source:** [Fragrantica](https://www.fragrantica.com/) (via Kaggle dataset)
+- **Source:** [Fragrantica](https://www.fragrantica.com/) (via Kaggle dataset) [Dataset Used](https://www.kaggle.com/datasets/wilsonanthony/fragrantica-perfumes)
 - **Size:** ~160,000 reviews across 740 unique perfumes
 - **Features:** Perfume name, brand, release year, gender classification, user vote data (longevity, sillage, projection, value), raw review text
 - **Splits:** 5 Excel files merged and aggregated by perfume ID
