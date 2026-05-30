@@ -1,6 +1,11 @@
 # Perfume Recommendation System
 ### Sentiment & Numerical Feature-Based Recommendations using BERT, RoBERTa, and DistilBERT
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0-red)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A machine learning system that recommends perfumes by combining **Aspect-Based Sentiment Analysis (ABSA)** on user reviews with structured numerical features (longevity, sillage, projection, value). Built as a Master's thesis project at Bina Nusantara University.
 
 ---
